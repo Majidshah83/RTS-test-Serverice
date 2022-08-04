@@ -1,0 +1,126 @@
+a:hover,
+.btn-outline-primary,
+.top-right .icon,
+.dropdown-item:hover,
+.revolution-slider .tp-caption.revolution-pharmacy.bigtext,
+.special-services ul li .fa,
+.rightside .fa{
+    color: #00888a;    
+}
+.btn-primary,
+.login a:hover,
+.bg-default,
+.contact-info .fa,
+.services-tabs .nav-tabs .nav-item.show .nav-link, 
+.services-tabs .nav-tabs .nav-link.active{
+    background: #00ac63; 
+}
+.owl-prev:hover,
+.owl-next:hover{
+	background: #00888a!important; 
+}
+.btn-primary,
+.services-block,
+.services-tabs .nav-tabs .nav-item.show .nav-link, 
+.services-tabs .nav-tabs .nav-link.active,
+.btn-outline-primary{    
+    border: #00888a 1px solid;	
+}
+.btn-primary:hover,
+.btn-outline-primary:hover{
+    background: #004c4d;
+    border: #004c4d 1px solid;
+}
+.topbar{
+    background: rgba(247,247,247,0.9);     
+}
+.top-right h6 {
+    color: #444444;    
+}
+.top-right p, .top-right span,
+.top-right span a{
+    color: #777777;	
+}
+.box-overlay{
+	background: rgba(0,172,99,0.8);	
+}
+.box-overlay-color{
+	background: rgba(0,136,138,0.9);		
+}
+.eps-content{
+	background: #f9f9f9;
+}
+.box-overlay-form{	
+	background: rgba(247,247,247,0.9);	
+}
+.emergency .form-control{
+	border: #e6e6e6 1px solid;	
+}
+.box-overlay-hours{	
+	background: rgba(0,172,99,1);	
+}
+.box-overlay-black{
+	background: rgba(0,172,99,0.8);	
+}
+.footer {
+    background-color: rgba(0,172,99,1);     
+    color: #fff;
+}
+.footer a,
+.footer .fa{   
+	color: rgba(255, 255, 255, 0.85);
+}
+.footer a:hover{
+	color: rgba(255, 255, 255, 1);
+}
+.copyright {
+    background-color: rgba(0,172,99,0.8);   
+}
+.page-title .box-overlay{
+	background: #3abe81;		
+}
+.btn-outline-secondary{
+	color: #ffffff;
+	border-color: #ffffff;
+}
+.btn-outline-secondary:hover{
+	background: #ffffff;
+	color: #00888a;
+	border-color: #ffffff;
+}
+
+/*services btn*/
+
+.btn-outline-success {
+    color: #3abe81;
+    background-image: none;
+    background-color: #;
+    border-color: #3abe81;
+}
+
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #3abe81;
+    border-color: #3abe81
+}
+
+.btn-outline-success.focus,
+.btn-outline-success:focus {
+    -webkit-box-shadow: 0 0 0 2px rgba(92, 184, 92, .5);
+    box-shadow: 0 0 0 2px rgba(92, 184, 92, .5)
+}
+
+.btn-outline-success.disabled,
+.btn-outline-success:disabled {
+    color: #344d6c;
+    background-color: transparent
+}
+
+.btn-outline-success.active,
+.btn-outline-success:active,
+.show>.btn-outline-success.dropdown-toggle {
+    color: #fff;
+    background-color: #344d6c;
+    border-color: #344d6c
+}
+
